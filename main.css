@@ -1,0 +1,60 @@
+body, body *{
+    color: white;
+}
+
+main{
+    width: 100%;
+    background-color: gray;
+}
+
+.spacer{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+
+.row{
+    --bs-gutter-x: 0rem;
+}
+
+
+.col-1{
+    height: 500px;
+    background-color: white;
+}
+
+.left{
+    height: 500px;
+}
+
+.spaceLeft{
+    background-color: red;
+}
+
+.top{
+    height: 200px;
+}
+
+.spaceTop{
+    background-color: yellowgreen;
+}
+
+.mid{
+    height: 300px;
+}
+
+.spaceMid{
+    background-color: pink;
+}
+
+.small{
+    height: 150px;
+}
+
+.spaceSmall{
+    background-color: cornflowerblue;
+}
+
+p{
+    text-align: center;
+}
